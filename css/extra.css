@@ -6320,7 +6320,7 @@ fieldset:disabled .btn {
 }
 
 .btn-close-white {
-    /* filter: var(--bs-btn-close-white-filter); */
+    filter: var(--bs-btn-close-white-filter);
 }
 
 [data-bs-theme=dark] .btn-close {

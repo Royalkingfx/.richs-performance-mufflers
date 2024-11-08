@@ -64,7 +64,8 @@ nav {
 
 @media (max-width: 1200px) {
   nav {
-    padding: 16px 0;
+    padding: 16px 0; 
+    background: linear-gradient(180deg, rgba(43,43,43,1) 26%, rgba(0,0,0,1) 94%) !important;
   }
 }
 
@@ -1231,7 +1232,7 @@ nav .navbar-nav .nav-link:hover {
 }
 @media (max-width: 770px){
   nav{
-    background: linear-gradient(180deg, rgba(184, 184, 184, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(185, 185, 185, 1) 100%) !important;
+    background:linear-gradient(180deg, rgba(43,43,43,1) 26%, rgba(0,0,0,1) 94%) !important;
   }
 
 }
@@ -2182,7 +2183,7 @@ textarea:-ms-input-placeholder {
  }
  .offcanvas-header{
   border-bottom: 2px solid black; 
-  background:white !important;
+  background:linear-gradient(180deg, rgba(43,43,43,1) 26%, rgba(0,0,0,1) 94%) !important;
  }
  @media (max-width: 1200px) {
   nav .navbar-nav {
